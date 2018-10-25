@@ -1,0 +1,196 @@
+C:\Users\georg\Documents\Visual Studio 2013\Projects\Mine_Sweeper\Mine_Sweeper\bin\Debug\Mine_Sweeper.exe.config
+C:\Users\georg\Documents\Visual Studio 2013\Projects\Mine_Sweeper\Mine_Sweeper\bin\Debug\Mine_Sweeper.exe
+C:\Users\georg\Documents\Visual Studio 2013\Projects\Mine_Sweeper\Mine_Sweeper\bin\Debug\Mine_Sweeper.pdb
+C:\Users\georg\Documents\Visual Studio 2013\Projects\Mine_Sweeper\Mine_Sweeper\obj\Debug\Mine_Sweeper.csprojResolveAssemblyReference.cache
+C:\Users\georg\Documents\Visual Studio 2013\Projects\Mine_Sweeper\Mine_Sweeper\obj\Debug\Mine_Sweeper.Splash_screen.resources
+C:\Users\georg\Documents\Visual Studio 2013\Projects\Mine_Sweeper\Mine_Sweeper\obj\Debug\Mine_Sweeper.Main_menu.resources
+C:\Users\georg\Documents\Visual Studio 2013\Projects\Mine_Sweeper\Mine_Sweeper\obj\Debug\Mine_Sweeper.Properties.Resources.resources
+C:\Users\georg\Documents\Visual Studio 2013\Projects\Mine_Sweeper\Mine_Sweeper\obj\Debug\Mine_Sweeper.csproj.GenerateResource.Cache
+C:\Users\georg\Documents\Visual Studio 2013\Projects\Mine_Sweeper\Mine_Sweeper\obj\Debug\Mine_Sweeper.exe
+C:\Users\georg\Documents\Visual Studio 2013\Projects\Mine_Sweeper\Mine_Sweeper\obj\Debug\Mine_Sweeper.pdb
+C:\Users\georg\Documents\Visual Studio 2013\Projects\Mine_Sweeper\Mine_Sweeper\obj\Debug\Mine_Sweeper.Highscores_screen.resources
+C:\Users\georg\Documents\Visual Studio 2013\Projects\Mine_Sweeper\Mine_Sweeper\obj\Debug\Mine_Sweeper.Game_screen.resources
+C:\Users\georg\Documents\Visual Studio 2013\Projects\Mine_Sweeper\Mine_Sweeper\obj\Debug\Mine_Sweeper.Profile_screen.resources
+C:\Users\georg\Documents\Visual Studio 2013\Projects\Mine_Sweeper\Mine_Sweeper\obj\Debug\Mine_Sweeper.Options_screen.resources
+C:\Users\georg\Documents\Visual Studio 2013\Projects\Mine_Sweeper\Mine_Sweeper\obj\Debug\Mine_Sweeper.Help_screen.resources
+C:\Users\mewpet3\Documents\Visual Studio 2013\Projects\Important things\Mine_Sweeper\Mine_Sweeper\bin\Debug\Mine_Sweeper.exe.config
+C:\Users\mewpet3\Documents\Visual Studio 2013\Projects\Important things\Mine_Sweeper\Mine_Sweeper\obj\Debug\Mine_Sweeper.exe
+C:\Users\mewpet3\Documents\Visual Studio 2013\Projects\Important things\Mine_Sweeper\Mine_Sweeper\obj\Debug\Mine_Sweeper.pdb
+C:\Users\mewpet3\Documents\Visual Studio 2013\Projects\Important things\Mine_Sweeper\Mine_Sweeper\bin\Debug\Mine_Sweeper.exe
+C:\Users\mewpet3\Documents\Visual Studio 2013\Projects\Important things\Mine_Sweeper\Mine_Sweeper\bin\Debug\Mine_Sweeper.pdb
+C:\Users\mewpet3\Documents\Visual Studio 2013\Projects\Important things\Mine_Sweeper\Mine_Sweeper\obj\Debug\Mine_Sweeper.csprojResolveAssemblyReference.cache
+C:\Users\mewpet3\Documents\Visual Studio 2013\Projects\Important things\Mine_Sweeper\Mine_Sweeper\obj\Debug\Mine_Sweeper.Game_screen.resources
+C:\Users\mewpet3\Documents\Visual Studio 2013\Projects\Important things\Mine_Sweeper\Mine_Sweeper\obj\Debug\Mine_Sweeper.Help_screen.resources
+C:\Users\mewpet3\Documents\Visual Studio 2013\Projects\Important things\Mine_Sweeper\Mine_Sweeper\obj\Debug\Mine_Sweeper.Highscores_screen.resources
+C:\Users\mewpet3\Documents\Visual Studio 2013\Projects\Important things\Mine_Sweeper\Mine_Sweeper\obj\Debug\Mine_Sweeper.Options_screen.resources
+C:\Users\mewpet3\Documents\Visual Studio 2013\Projects\Important things\Mine_Sweeper\Mine_Sweeper\obj\Debug\Mine_Sweeper.Profile_screen.resources
+C:\Users\mewpet3\Documents\Visual Studio 2013\Projects\Important things\Mine_Sweeper\Mine_Sweeper\obj\Debug\Mine_Sweeper.Splash_screen.resources
+C:\Users\mewpet3\Documents\Visual Studio 2013\Projects\Important things\Mine_Sweeper\Mine_Sweeper\obj\Debug\Mine_Sweeper.Main_menu.resources
+C:\Users\mewpet3\Documents\Visual Studio 2013\Projects\Important things\Mine_Sweeper\Mine_Sweeper\obj\Debug\Mine_Sweeper.Properties.Resources.resources
+C:\Users\mewpet3\Documents\Visual Studio 2013\Projects\Important things\Mine_Sweeper\Mine_Sweeper\obj\Debug\Mine_Sweeper.csproj.GenerateResource.Cache
+C:\Users\mewpet3\Documents\Visual Studio 2013\Projects\Important things\Mine_Sweeper\Mine_Sweeper\obj\Debug\Interop.WMPLib.dll
+C:\Users\mewpet3\Documents\Visual Studio 2013\Projects\Important things\Mine_Sweeper\Mine_Sweeper\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\mewpet3\Documents\Visual Studio 2013\Projects\Important things\Mine_Sweeper\Mine_Sweeper\obj\Debug\Mine_Sweeper.csproj.ResolveComReference.cache
+C:\Users\mewpet3\Documents\Visual Studio 2013\Projects\Important things\Mine_Sweeper\Mine_Sweeper\bin\Debug\Interop.WMPLib.dll
+C:\Users\mewpet3\Documents\Visual Studio 2013\Projects\Important things\Mine_Sweeper\Mine_Sweeper\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\georg\Documents\Visual Studio 2013\Projects\Mine_Sweeper\Mine_Sweeper\obj\Debug\Interop.WMPLib.dll
+C:\Users\georg\Documents\Visual Studio 2013\Projects\Mine_Sweeper\Mine_Sweeper\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\georg\Documents\Visual Studio 2013\Projects\Mine_Sweeper\Mine_Sweeper\obj\Debug\Mine_Sweeper.csproj.ResolveComReference.cache
+C:\Users\georg\Documents\Visual Studio 2013\Projects\Mine_Sweeper\Mine_Sweeper\bin\Debug\Interop.WMPLib.dll
+C:\Users\georg\Documents\Visual Studio 2013\Projects\Mine_Sweeper\Mine_Sweeper\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\mewpet3\Desktop\Minesweeper stuff\Mine_Sweeper\Mine_Sweeper\bin\Debug\Mine_Sweeper.exe.config
+C:\Users\mewpet3\Desktop\Minesweeper stuff\Mine_Sweeper\Mine_Sweeper\obj\Debug\Interop.WMPLib.dll
+C:\Users\mewpet3\Desktop\Minesweeper stuff\Mine_Sweeper\Mine_Sweeper\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\mewpet3\Desktop\Minesweeper stuff\Mine_Sweeper\Mine_Sweeper\obj\Debug\Mine_Sweeper.csproj.ResolveComReference.cache
+C:\Users\mewpet3\Desktop\Minesweeper stuff\Mine_Sweeper\Mine_Sweeper\obj\Debug\Mine_Sweeper.exe
+C:\Users\mewpet3\Desktop\Minesweeper stuff\Mine_Sweeper\Mine_Sweeper\obj\Debug\Mine_Sweeper.pdb
+C:\Users\mewpet3\Desktop\Minesweeper stuff\Mine_Sweeper\Mine_Sweeper\bin\Debug\Mine_Sweeper.exe
+C:\Users\mewpet3\Desktop\Minesweeper stuff\Mine_Sweeper\Mine_Sweeper\bin\Debug\Mine_Sweeper.pdb
+C:\Users\mewpet3\Desktop\Minesweeper stuff\Mine_Sweeper\Mine_Sweeper\bin\Debug\Interop.WMPLib.dll
+C:\Users\mewpet3\Desktop\Minesweeper stuff\Mine_Sweeper\Mine_Sweeper\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\mewpet3\Desktop\Minesweeper stuff\Mine_Sweeper\Mine_Sweeper\obj\Debug\Mine_Sweeper.csprojResolveAssemblyReference.cache
+C:\Users\mewpet3\Desktop\Minesweeper stuff\Mine_Sweeper\Mine_Sweeper\obj\Debug\Mine_Sweeper.Game_screen.resources
+C:\Users\mewpet3\Desktop\Minesweeper stuff\Mine_Sweeper\Mine_Sweeper\obj\Debug\Mine_Sweeper.Help_screen.resources
+C:\Users\mewpet3\Desktop\Minesweeper stuff\Mine_Sweeper\Mine_Sweeper\obj\Debug\Mine_Sweeper.Highscores_screen.resources
+C:\Users\mewpet3\Desktop\Minesweeper stuff\Mine_Sweeper\Mine_Sweeper\obj\Debug\Mine_Sweeper.Options_screen.resources
+C:\Users\mewpet3\Desktop\Minesweeper stuff\Mine_Sweeper\Mine_Sweeper\obj\Debug\Mine_Sweeper.Profile_screen.resources
+C:\Users\mewpet3\Desktop\Minesweeper stuff\Mine_Sweeper\Mine_Sweeper\obj\Debug\Mine_Sweeper.Splash_screen.resources
+C:\Users\mewpet3\Desktop\Minesweeper stuff\Mine_Sweeper\Mine_Sweeper\obj\Debug\Mine_Sweeper.Main_menu.resources
+C:\Users\mewpet3\Desktop\Minesweeper stuff\Mine_Sweeper\Mine_Sweeper\obj\Debug\Mine_Sweeper.Properties.Resources.resources
+C:\Users\mewpet3\Desktop\Minesweeper stuff\Mine_Sweeper\Mine_Sweeper\obj\Debug\Mine_Sweeper.csproj.GenerateResource.Cache
+C:\Users\georg\Desktop\Mine_Sweeper\Mine_Sweeper\bin\Debug\Mine_Sweeper.exe.config
+C:\Users\georg\Desktop\Mine_Sweeper\Mine_Sweeper\obj\Debug\Interop.WMPLib.dll
+C:\Users\georg\Desktop\Mine_Sweeper\Mine_Sweeper\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\georg\Desktop\Mine_Sweeper\Mine_Sweeper\obj\Debug\Mine_Sweeper.csproj.ResolveComReference.cache
+C:\Users\georg\Desktop\Mine_Sweeper\Mine_Sweeper\obj\Debug\Mine_Sweeper.exe
+C:\Users\georg\Desktop\Mine_Sweeper\Mine_Sweeper\obj\Debug\Mine_Sweeper.pdb
+C:\Users\georg\Desktop\Mine_Sweeper\Mine_Sweeper\bin\Debug\Mine_Sweeper.exe
+C:\Users\georg\Desktop\Mine_Sweeper\Mine_Sweeper\bin\Debug\Mine_Sweeper.pdb
+C:\Users\georg\Desktop\Mine_Sweeper\Mine_Sweeper\bin\Debug\Interop.WMPLib.dll
+C:\Users\georg\Desktop\Mine_Sweeper\Mine_Sweeper\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\georg\Desktop\Mine_Sweeper\Mine_Sweeper\obj\Debug\Mine_Sweeper.csprojResolveAssemblyReference.cache
+C:\Users\georg\Desktop\Mine_Sweeper\Mine_Sweeper\obj\Debug\Mine_Sweeper.Game_screen.resources
+C:\Users\georg\Desktop\Mine_Sweeper\Mine_Sweeper\obj\Debug\Mine_Sweeper.Help_screen.resources
+C:\Users\georg\Desktop\Mine_Sweeper\Mine_Sweeper\obj\Debug\Mine_Sweeper.Options_screen.resources
+C:\Users\georg\Desktop\Mine_Sweeper\Mine_Sweeper\obj\Debug\Mine_Sweeper.Profile_screen.resources
+C:\Users\georg\Desktop\Mine_Sweeper\Mine_Sweeper\obj\Debug\Mine_Sweeper.Splash_screen.resources
+C:\Users\georg\Desktop\Mine_Sweeper\Mine_Sweeper\obj\Debug\Mine_Sweeper.Main_menu.resources
+C:\Users\georg\Desktop\Mine_Sweeper\Mine_Sweeper\obj\Debug\Mine_Sweeper.Properties.Resources.resources
+C:\Users\georg\Desktop\Mine_Sweeper\Mine_Sweeper\obj\Debug\Mine_Sweeper.csproj.GenerateResource.Cache
+C:\Users\mewpet3\Desktop\Work for 07.04.16\Mine_Sweeper\Mine_Sweeper\bin\Debug\Mine_Sweeper.exe.config
+C:\Users\mewpet3\Desktop\Work for 07.04.16\Mine_Sweeper\Mine_Sweeper\obj\Debug\Interop.WMPLib.dll
+C:\Users\mewpet3\Desktop\Work for 07.04.16\Mine_Sweeper\Mine_Sweeper\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\mewpet3\Desktop\Work for 07.04.16\Mine_Sweeper\Mine_Sweeper\obj\Debug\Mine_Sweeper.csproj.ResolveComReference.cache
+C:\Users\mewpet3\Desktop\Work for 07.04.16\Mine_Sweeper\Mine_Sweeper\obj\Debug\Mine_Sweeper.exe
+C:\Users\mewpet3\Desktop\Work for 07.04.16\Mine_Sweeper\Mine_Sweeper\obj\Debug\Mine_Sweeper.pdb
+C:\Users\mewpet3\Desktop\Work for 07.04.16\Mine_Sweeper\Mine_Sweeper\bin\Debug\Mine_Sweeper.exe
+C:\Users\mewpet3\Desktop\Work for 07.04.16\Mine_Sweeper\Mine_Sweeper\bin\Debug\Mine_Sweeper.pdb
+C:\Users\mewpet3\Desktop\Work for 07.04.16\Mine_Sweeper\Mine_Sweeper\bin\Debug\Interop.WMPLib.dll
+C:\Users\mewpet3\Desktop\Work for 07.04.16\Mine_Sweeper\Mine_Sweeper\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\mewpet3\Desktop\Work for 07.04.16\Mine_Sweeper\Mine_Sweeper\obj\Debug\Mine_Sweeper.csprojResolveAssemblyReference.cache
+C:\Users\mewpet3\Desktop\Work for 07.04.16\Mine_Sweeper\Mine_Sweeper\obj\Debug\Mine_Sweeper.Game_screen.resources
+C:\Users\mewpet3\Desktop\Work for 07.04.16\Mine_Sweeper\Mine_Sweeper\obj\Debug\Mine_Sweeper.Help_screen.resources
+C:\Users\mewpet3\Desktop\Work for 07.04.16\Mine_Sweeper\Mine_Sweeper\obj\Debug\Mine_Sweeper.Highscores_screen.resources
+C:\Users\mewpet3\Desktop\Work for 07.04.16\Mine_Sweeper\Mine_Sweeper\obj\Debug\Mine_Sweeper.Options_screen.resources
+C:\Users\mewpet3\Desktop\Work for 07.04.16\Mine_Sweeper\Mine_Sweeper\obj\Debug\Mine_Sweeper.Profile_screen.resources
+C:\Users\mewpet3\Desktop\Work for 07.04.16\Mine_Sweeper\Mine_Sweeper\obj\Debug\Mine_Sweeper.Splash_screen.resources
+C:\Users\mewpet3\Desktop\Work for 07.04.16\Mine_Sweeper\Mine_Sweeper\obj\Debug\Mine_Sweeper.Main_menu.resources
+C:\Users\mewpet3\Desktop\Work for 07.04.16\Mine_Sweeper\Mine_Sweeper\obj\Debug\Mine_Sweeper.Properties.Resources.resources
+C:\Users\mewpet3\Desktop\Work for 07.04.16\Mine_Sweeper\Mine_Sweeper\obj\Debug\Mine_Sweeper.csproj.GenerateResource.Cache
+C:\Users\mewpet3\Desktop\Work\Mine_Sweeper\Mine_Sweeper\bin\Debug\Mine_Sweeper.exe.config
+C:\Users\mewpet3\Desktop\Work\Mine_Sweeper\Mine_Sweeper\obj\Debug\Interop.WMPLib.dll
+C:\Users\mewpet3\Desktop\Work\Mine_Sweeper\Mine_Sweeper\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\mewpet3\Desktop\Work\Mine_Sweeper\Mine_Sweeper\obj\Debug\Mine_Sweeper.csproj.ResolveComReference.cache
+C:\Users\mewpet3\Desktop\Work\Mine_Sweeper\Mine_Sweeper\obj\Debug\Mine_Sweeper.exe
+C:\Users\mewpet3\Desktop\Work\Mine_Sweeper\Mine_Sweeper\obj\Debug\Mine_Sweeper.pdb
+C:\Users\mewpet3\Desktop\Work\Mine_Sweeper\Mine_Sweeper\bin\Debug\Mine_Sweeper.exe
+C:\Users\mewpet3\Desktop\Work\Mine_Sweeper\Mine_Sweeper\bin\Debug\Mine_Sweeper.pdb
+C:\Users\mewpet3\Desktop\Work\Mine_Sweeper\Mine_Sweeper\bin\Debug\Interop.WMPLib.dll
+C:\Users\mewpet3\Desktop\Work\Mine_Sweeper\Mine_Sweeper\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\mewpet3\Desktop\Work\Mine_Sweeper\Mine_Sweeper\obj\Debug\Mine_Sweeper.csprojResolveAssemblyReference.cache
+C:\Users\mewpet3\Desktop\Work\Mine_Sweeper\Mine_Sweeper\obj\Debug\Mine_Sweeper.Game_screen.resources
+C:\Users\mewpet3\Desktop\Work\Mine_Sweeper\Mine_Sweeper\obj\Debug\Mine_Sweeper.Help_screen.resources
+C:\Users\mewpet3\Desktop\Work\Mine_Sweeper\Mine_Sweeper\obj\Debug\Mine_Sweeper.Highscores_screen.resources
+C:\Users\mewpet3\Desktop\Work\Mine_Sweeper\Mine_Sweeper\obj\Debug\Mine_Sweeper.Options_screen.resources
+C:\Users\mewpet3\Desktop\Work\Mine_Sweeper\Mine_Sweeper\obj\Debug\Mine_Sweeper.Profile_screen.resources
+C:\Users\mewpet3\Desktop\Work\Mine_Sweeper\Mine_Sweeper\obj\Debug\Mine_Sweeper.Splash_screen.resources
+C:\Users\mewpet3\Desktop\Work\Mine_Sweeper\Mine_Sweeper\obj\Debug\Mine_Sweeper.Main_menu.resources
+C:\Users\mewpet3\Desktop\Work\Mine_Sweeper\Mine_Sweeper\obj\Debug\Mine_Sweeper.Properties.Resources.resources
+C:\Users\mewpet3\Desktop\Work\Mine_Sweeper\Mine_Sweeper\obj\Debug\Mine_Sweeper.csproj.GenerateResource.Cache
+G:\Current work\Mine_Sweeper\Mine_Sweeper\bin\Debug\Mine_Sweeper.exe.config
+G:\Current work\Mine_Sweeper\Mine_Sweeper\obj\Debug\Interop.WMPLib.dll
+G:\Current work\Mine_Sweeper\Mine_Sweeper\obj\Debug\AxInterop.WMPLib.dll
+G:\Current work\Mine_Sweeper\Mine_Sweeper\obj\Debug\Mine_Sweeper.csproj.ResolveComReference.cache
+G:\Current work\Mine_Sweeper\Mine_Sweeper\obj\Debug\Mine_Sweeper.exe
+G:\Current work\Mine_Sweeper\Mine_Sweeper\obj\Debug\Mine_Sweeper.pdb
+G:\Current work\Mine_Sweeper\Mine_Sweeper\bin\Debug\Mine_Sweeper.exe
+G:\Current work\Mine_Sweeper\Mine_Sweeper\bin\Debug\Mine_Sweeper.pdb
+G:\Current work\Mine_Sweeper\Mine_Sweeper\bin\Debug\Interop.WMPLib.dll
+G:\Current work\Mine_Sweeper\Mine_Sweeper\bin\Debug\AxInterop.WMPLib.dll
+G:\Current work\Mine_Sweeper\Mine_Sweeper\obj\Debug\Mine_Sweeper.csprojResolveAssemblyReference.cache
+G:\Current work\Mine_Sweeper\Mine_Sweeper\obj\Debug\Mine_Sweeper.Game_screen.resources
+G:\Current work\Mine_Sweeper\Mine_Sweeper\obj\Debug\Mine_Sweeper.Help_screen.resources
+G:\Current work\Mine_Sweeper\Mine_Sweeper\obj\Debug\Mine_Sweeper.Options_screen.resources
+G:\Current work\Mine_Sweeper\Mine_Sweeper\obj\Debug\Mine_Sweeper.Profile_screen.resources
+G:\Current work\Mine_Sweeper\Mine_Sweeper\obj\Debug\Mine_Sweeper.Splash_screen.resources
+G:\Current work\Mine_Sweeper\Mine_Sweeper\obj\Debug\Mine_Sweeper.Main_menu.resources
+G:\Current work\Mine_Sweeper\Mine_Sweeper\obj\Debug\Mine_Sweeper.Properties.Resources.resources
+G:\Current work\Mine_Sweeper\Mine_Sweeper\obj\Debug\Mine_Sweeper.csproj.GenerateResource.Cache
+K:\Current work\Mine_Sweeper\Mine_Sweeper\bin\Debug\Mine_Sweeper.exe.config
+K:\Current work\Mine_Sweeper\Mine_Sweeper\obj\Debug\Interop.WMPLib.dll
+K:\Current work\Mine_Sweeper\Mine_Sweeper\obj\Debug\AxInterop.WMPLib.dll
+K:\Current work\Mine_Sweeper\Mine_Sweeper\obj\Debug\Mine_Sweeper.csproj.ResolveComReference.cache
+K:\Current work\Mine_Sweeper\Mine_Sweeper\obj\Debug\Mine_Sweeper.exe
+K:\Current work\Mine_Sweeper\Mine_Sweeper\obj\Debug\Mine_Sweeper.pdb
+K:\Current work\Mine_Sweeper\Mine_Sweeper\bin\Debug\Mine_Sweeper.exe
+K:\Current work\Mine_Sweeper\Mine_Sweeper\bin\Debug\Mine_Sweeper.pdb
+K:\Current work\Mine_Sweeper\Mine_Sweeper\bin\Debug\Interop.WMPLib.dll
+K:\Current work\Mine_Sweeper\Mine_Sweeper\bin\Debug\AxInterop.WMPLib.dll
+K:\Current work\Mine_Sweeper\Mine_Sweeper\obj\Debug\Mine_Sweeper.csprojResolveAssemblyReference.cache
+K:\Current work\Mine_Sweeper\Mine_Sweeper\obj\Debug\Mine_Sweeper.Game_screen.resources
+K:\Current work\Mine_Sweeper\Mine_Sweeper\obj\Debug\Mine_Sweeper.Help_screen.resources
+K:\Current work\Mine_Sweeper\Mine_Sweeper\obj\Debug\Mine_Sweeper.Options_screen.resources
+K:\Current work\Mine_Sweeper\Mine_Sweeper\obj\Debug\Mine_Sweeper.Profile_screen.resources
+K:\Current work\Mine_Sweeper\Mine_Sweeper\obj\Debug\Mine_Sweeper.Splash_screen.resources
+K:\Current work\Mine_Sweeper\Mine_Sweeper\obj\Debug\Mine_Sweeper.Main_menu.resources
+K:\Current work\Mine_Sweeper\Mine_Sweeper\obj\Debug\Mine_Sweeper.Properties.Resources.resources
+K:\Current work\Mine_Sweeper\Mine_Sweeper\obj\Debug\Mine_Sweeper.csproj.GenerateResource.Cache
+G:\Current work\.Old work\Mine_Sweeper\Mine_Sweeper\bin\Debug\Mine_Sweeper.exe.config
+G:\Current work\.Old work\Mine_Sweeper\Mine_Sweeper\obj\Debug\Interop.WMPLib.dll
+G:\Current work\.Old work\Mine_Sweeper\Mine_Sweeper\obj\Debug\AxInterop.WMPLib.dll
+G:\Current work\.Old work\Mine_Sweeper\Mine_Sweeper\obj\Debug\Mine_Sweeper.csproj.ResolveComReference.cache
+G:\Current work\.Old work\Mine_Sweeper\Mine_Sweeper\obj\Debug\Mine_Sweeper.exe
+G:\Current work\.Old work\Mine_Sweeper\Mine_Sweeper\obj\Debug\Mine_Sweeper.pdb
+G:\Current work\.Old work\Mine_Sweeper\Mine_Sweeper\bin\Debug\Mine_Sweeper.exe
+G:\Current work\.Old work\Mine_Sweeper\Mine_Sweeper\bin\Debug\Mine_Sweeper.pdb
+G:\Current work\.Old work\Mine_Sweeper\Mine_Sweeper\bin\Debug\Interop.WMPLib.dll
+G:\Current work\.Old work\Mine_Sweeper\Mine_Sweeper\bin\Debug\AxInterop.WMPLib.dll
+G:\Current work\.Old work\Mine_Sweeper\Mine_Sweeper\obj\Debug\Mine_Sweeper.csprojResolveAssemblyReference.cache
+G:\Current work\.Old work\Mine_Sweeper\Mine_Sweeper\obj\Debug\Mine_Sweeper.Game_screen.resources
+G:\Current work\.Old work\Mine_Sweeper\Mine_Sweeper\obj\Debug\Mine_Sweeper.Help_screen.resources
+G:\Current work\.Old work\Mine_Sweeper\Mine_Sweeper\obj\Debug\Mine_Sweeper.Options_screen.resources
+G:\Current work\.Old work\Mine_Sweeper\Mine_Sweeper\obj\Debug\Mine_Sweeper.Profile_screen.resources
+G:\Current work\.Old work\Mine_Sweeper\Mine_Sweeper\obj\Debug\Mine_Sweeper.Splash_screen.resources
+G:\Current work\.Old work\Mine_Sweeper\Mine_Sweeper\obj\Debug\Mine_Sweeper.Main_menu.resources
+G:\Current work\.Old work\Mine_Sweeper\Mine_Sweeper\obj\Debug\Mine_Sweeper.Properties.Resources.resources
+G:\Current work\.Old work\Mine_Sweeper\Mine_Sweeper\obj\Debug\Mine_Sweeper.csproj.GenerateResource.Cache
+E:\SSD\Mine_Sweeper\Mine_Sweeper\bin\Debug\Mine_Sweeper.exe.config
+E:\SSD\Mine_Sweeper\Mine_Sweeper\obj\Debug\Interop.WMPLib.dll
+E:\SSD\Mine_Sweeper\Mine_Sweeper\obj\Debug\AxInterop.WMPLib.dll
+E:\SSD\Mine_Sweeper\Mine_Sweeper\obj\Debug\Mine_Sweeper.csproj.ResolveComReference.cache
+E:\SSD\Mine_Sweeper\Mine_Sweeper\obj\Debug\Mine_Sweeper.exe
+E:\SSD\Mine_Sweeper\Mine_Sweeper\obj\Debug\Mine_Sweeper.pdb
+E:\SSD\Mine_Sweeper\Mine_Sweeper\bin\Debug\Mine_Sweeper.exe
+E:\SSD\Mine_Sweeper\Mine_Sweeper\bin\Debug\Mine_Sweeper.pdb
+E:\SSD\Mine_Sweeper\Mine_Sweeper\bin\Debug\Interop.WMPLib.dll
+E:\SSD\Mine_Sweeper\Mine_Sweeper\bin\Debug\AxInterop.WMPLib.dll
+E:\SSD\Mine_Sweeper\Mine_Sweeper\obj\Debug\Mine_Sweeper.csprojResolveAssemblyReference.cache
+E:\SSD\Mine_Sweeper\Mine_Sweeper\obj\Debug\Mine_Sweeper.Game_screen.resources
+E:\SSD\Mine_Sweeper\Mine_Sweeper\obj\Debug\Mine_Sweeper.Help_screen.resources
+E:\SSD\Mine_Sweeper\Mine_Sweeper\obj\Debug\Mine_Sweeper.Options_screen.resources
+E:\SSD\Mine_Sweeper\Mine_Sweeper\obj\Debug\Mine_Sweeper.Profile_screen.resources
+E:\SSD\Mine_Sweeper\Mine_Sweeper\obj\Debug\Mine_Sweeper.Splash_screen.resources
+E:\SSD\Mine_Sweeper\Mine_Sweeper\obj\Debug\Mine_Sweeper.Main_menu.resources
+E:\SSD\Mine_Sweeper\Mine_Sweeper\obj\Debug\Mine_Sweeper.Properties.Resources.resources
+E:\SSD\Mine_Sweeper\Mine_Sweeper\obj\Debug\Mine_Sweeper.csproj.GenerateResource.Cache
+E:\SSD\Mine_Sweeper\Mine_Sweeper\obj\Debug\Mine_Sweeper.csproj.CoreCompileInputs.cache

@@ -1,0 +1,238 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{48525C6E-53B7-49C8-B828-2DF39B08D36E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Mine_Sweeper</RootNamespace>
+    <AssemblyName>Mine_Sweeper</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Game_screen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Game_screen.Designer.cs">
+      <DependentUpon>Game_screen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Help_screen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Help_screen.Designer.cs">
+      <DependentUpon>Help_screen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Options_screen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Options_screen.Designer.cs">
+      <DependentUpon>Options_screen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Profile.cs" />
+    <Compile Include="Profile_screen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Profile_screen.Designer.cs">
+      <DependentUpon>Profile_screen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Splash_screen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Splash_screen.Designer.cs">
+      <DependentUpon>Splash_screen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main_menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main_menu.Designer.cs">
+      <DependentUpon>Main_menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Game_screen.resx">
+      <DependentUpon>Game_screen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Help_screen.resx">
+      <DependentUpon>Help_screen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Options_screen.resx">
+      <DependentUpon>Options_screen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Profile_screen.resx">
+      <DependentUpon>Profile_screen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Splash_screen.resx">
+      <DependentUpon>Splash_screen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main_menu.resx">
+      <DependentUpon>Main_menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="bin\Debug\Help.rtf" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Temp_image_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Temp_image_2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Temp_image_3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\No_profile_image.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Temp_image_4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Temp_image_5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Bomb-SoundBible.com-891110113.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ta Da-SoundBible.com-1884170640.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Blop-Mark_DiAngelo-79054334.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MusicEnabled_image.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MusicEnabled_image1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MusicEnabled_image11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MusicEnabled_image111.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ButtonDefault_image.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Mine.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Minesweeper flag.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Example of winning MineSweeper.avi" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

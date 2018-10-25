@@ -1,0 +1,10 @@
+C:\Users\georg\Documents\Visual Studio 2013\Projects\Mine_Sweeper\Mine_Sweeper\bin\Release\Mine_Sweeper.exe.config
+C:\Users\georg\Documents\Visual Studio 2013\Projects\Mine_Sweeper\Mine_Sweeper\bin\Release\Mine_Sweeper.exe
+C:\Users\georg\Documents\Visual Studio 2013\Projects\Mine_Sweeper\Mine_Sweeper\bin\Release\Mine_Sweeper.pdb
+C:\Users\georg\Documents\Visual Studio 2013\Projects\Mine_Sweeper\Mine_Sweeper\obj\Release\Mine_Sweeper.Options.resources
+C:\Users\georg\Documents\Visual Studio 2013\Projects\Mine_Sweeper\Mine_Sweeper\obj\Release\Mine_Sweeper.Splash_screen.resources
+C:\Users\georg\Documents\Visual Studio 2013\Projects\Mine_Sweeper\Mine_Sweeper\obj\Release\Mine_Sweeper.Main_menu.resources
+C:\Users\georg\Documents\Visual Studio 2013\Projects\Mine_Sweeper\Mine_Sweeper\obj\Release\Mine_Sweeper.Properties.Resources.resources
+C:\Users\georg\Documents\Visual Studio 2013\Projects\Mine_Sweeper\Mine_Sweeper\obj\Release\Mine_Sweeper.csproj.GenerateResource.Cache
+C:\Users\georg\Documents\Visual Studio 2013\Projects\Mine_Sweeper\Mine_Sweeper\obj\Release\Mine_Sweeper.exe
+C:\Users\georg\Documents\Visual Studio 2013\Projects\Mine_Sweeper\Mine_Sweeper\obj\Release\Mine_Sweeper.pdb
